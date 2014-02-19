@@ -1,0 +1,24 @@
+{
+  "name": "xclick",
+  "main": "xclick.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/fuqcool/X-Click",
+  "authors": [
+    "fuqcool <fuqcool@gmail.com>"
+  ],
+  "description": "xclick is jQuery plugin to prevent elements to be pressed more than once.",
+  "keywords": [
+    "double click",
+    "jQuery",
+    "plugin"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "*~",
+    "bower_components"
+  ],
+  "dependencies": {
+    "jquery": ">=1.4.0"
+  }
+}
